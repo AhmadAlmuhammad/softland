@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/softland/static/css/main.6e400206.chunk.css",
+    "main.js": "/softland/static/js/main.b07b8714.chunk.js",
+    "main.js.map": "/softland/static/js/main.b07b8714.chunk.js.map",
+    "runtime-main.js": "/softland/static/js/runtime-main.97dbcbd9.js",
+    "runtime-main.js.map": "/softland/static/js/runtime-main.97dbcbd9.js.map",
+    "static/css/2.146e8068.chunk.css": "/softland/static/css/2.146e8068.chunk.css",
+    "static/js/2.4b470d42.chunk.js": "/softland/static/js/2.4b470d42.chunk.js",
+    "static/js/2.4b470d42.chunk.js.map": "/softland/static/js/2.4b470d42.chunk.js.map",
+    "static/js/3.66e3f045.chunk.js": "/softland/static/js/3.66e3f045.chunk.js",
+    "static/js/3.66e3f045.chunk.js.map": "/softland/static/js/3.66e3f045.chunk.js.map",
+    "index.html": "/softland/index.html",
+    "static/css/2.146e8068.chunk.css.map": "/softland/static/css/2.146e8068.chunk.css.map",
+    "static/css/main.6e400206.chunk.css.map": "/softland/static/css/main.6e400206.chunk.css.map",
+    "static/js/2.4b470d42.chunk.js.LICENSE.txt": "/softland/static/js/2.4b470d42.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/softland/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/home.css": "/softland/static/media/hero-bg.31982140.svg",
+    "static/media/logo.6ce24c58.svg": "/softland/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97dbcbd9.js",
+    "static/css/2.146e8068.chunk.css",
+    "static/js/2.4b470d42.chunk.js",
+    "static/css/main.6e400206.chunk.css",
+    "static/js/main.b07b8714.chunk.js"
+  ]
+}
